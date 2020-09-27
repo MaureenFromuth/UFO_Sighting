@@ -55,7 +55,7 @@ For the HTML file, we utilized a story board for ‘inspiration’ and a CSS boo
 
 To build out the additional functionality, we needed to update the HTML file as well as the JavaScript code file.  
 
-For the HTML file, we removed the button click function within the second fluid container, and then added additional lists <li/> for additional filter input.  
+For the HTML file, we removed the button click function within the second fluid container, and then added additional lists for additional filter input.  
 
 ```
               <div class="col-md-3">
